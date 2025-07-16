@@ -1,5 +1,5 @@
 // script.js
-const API_BASE = 'http://localhost:4000';
+const API_BASE = 'https://merdometrodolul4.onrender.com';
 // 1) Seletor de elementos
 const form      = document.getElementById('link-form');
 const input     = document.getElementById('input_url');
